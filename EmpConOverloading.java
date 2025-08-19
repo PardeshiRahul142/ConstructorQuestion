@@ -54,7 +54,7 @@ public class EmpConOverloading {
 
 	public static void main(String[] args) {
 		EmpCon ec=new EmpCon(1,"Rahul",151000);
-		EmpCon ec1=new EmpCon(2,"Rohan",153100,5);
+		EmpCon ec1=new EmpCon(2,"Pranjali",153100,5);
 		ec.display();
 		ec1.Bounus();
 		ec1.display();
@@ -62,3 +62,4 @@ public class EmpConOverloading {
 	}
 
 }
+
